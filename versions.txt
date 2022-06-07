@@ -1,0 +1,19 @@
+Angular CLI: 13.3.5 version 
+
+.Net version: 3.1.0 version  
+
+HTML: HTML5
+
+CSS :CSS3
+
+JS :V16.15.0 version
+
+TSC :4.6.4 version
+
+MicrosoftEntityFrameWorkCore.sqlserver--3.1.0
+MicrosoftEntityFrameWorkCore.Tools --3.1.0
+MicrosoftEntityFrameWorkCore-- 3.1.0
+SwashBuckleAspcore--6.3.1
+
+
+
